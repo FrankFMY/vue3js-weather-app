@@ -2,6 +2,8 @@
 
 Современное погодное приложение на Vue 3 + Vite с красивым UI и использованием OpenWeatherMap API.
 
+![Vue 3 Weather App Preview](./preview.png)
+
 ![Vue 3 Weather App](https://img.shields.io/badge/Vue-3.4+-green.svg)
 ![Vite](https://img.shields.io/badge/Vite-5.0+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
